@@ -1,7 +1,7 @@
 class Block {
   constructor(x, y) {
-    this.x;
-    this.y;
+    this.x=x;
+    this.y=y;
   }
   dibujar() {
     fill(0,100,100);
